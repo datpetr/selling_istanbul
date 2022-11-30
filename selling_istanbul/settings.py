@@ -76,7 +76,7 @@ CACHES = {
     }
 }
 
-TIME_ZONE = 'Europe/London'
+TIME_ZONE = 'Europe/Istanbul'
 
 INTERNAL_IPS = [
     # ...
